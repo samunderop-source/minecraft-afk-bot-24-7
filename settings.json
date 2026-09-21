@@ -32,7 +32,7 @@
       "repeat-delay": 3600,
       "messages": [
         "/gamemode creative",
-        "/tp 272 100 179",
+        "/tp 272 100 179"
       ]
     },
     "chat-log": true,
